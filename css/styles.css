@@ -1,0 +1,121 @@
+body {
+  background-color: #141414;
+  color: white;
+}
+
+.episodes {
+  position: relative;
+}
+
+.p {
+  position: absolute;
+  bottom: 0;
+  font-size: 16px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+  padding-right: 20px;
+  text-align: center;
+  padding: 1px;
+}
+
+.netflix {
+  position: absolute;
+  top: 0;
+  color: red;
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.right {
+  margin-left: 5px !important;
+  overflow: auto !important;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.net-bg-color {
+  background-color: #141414;
+}
+body {
+  background-color: #141414;
+}
+.buttondrop1 {
+  width: 75px;
+  height: 27px;
+}
+
+.ba {
+  width: 80px;
+  height: 30px;
+  background-color: transparent;
+  text-align: center;
+  border: 1px solid white;
+}
+
+i {
+  padding-left: 5px;
+}
+
+.settings {
+  background-color: #f3f3f3;
+}
+
+.flex-items {
+  display: flex;
+  justify-content: space-between;
+}
+
+.column-1 {
+  width: 30%;
+}
+.column-2 {
+  width: 70%;
+}
+.columns {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-side {
+}
+.right-side {
+  text-align: right;
+  /* width: 100%;
+  height: 100%; */
+}
+
+hr {
+  background-color: brown;
+  width: 40px;
+  width: 100%;
+}
+
+h1 {
+  color: #141414;
+}
+h2 {
+  color: #141414;
+}
+
+p {
+  color: #3d3d3d;
+}
+
+.profil-img {
+  width: 35px;
+}
+
+.center-side {
+  margin-left: 43%;
+}
+
+.btn-color {
+  /* background: #f3f3f3; */
+  background: #e2e2e2;
+  color: #49484a;
+}
